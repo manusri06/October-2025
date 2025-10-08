@@ -9,8 +9,8 @@ class Solution:
         dummy = ListNode()
         res = dummy
         dummy.next = head
+        
         curr = dummy
-
         for i in range(n):
             curr = curr.next
     
