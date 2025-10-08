@@ -9,12 +9,12 @@ class Solution:
         dummy = ListNode()
         res = dummy
         dummy.next = head
-        
-        curr = dummy
+
+        curr = dummy.next
         for i in range(n):
             curr = curr.next
     
-        while curr.next:
+        while curr:
             curr = curr.next
             dummy = dummy.next
         dummy.next = dummy.next.next
