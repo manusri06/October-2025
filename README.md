@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/manusri06/October-2025/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/manusri06/October-2025/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/manusri06/October-2025/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/manusri06/October-2025/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/manusri06/October-2025/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/manusri06/October-2025/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/manusri06/October-2025/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/manusri06/October-2025/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/manusri06/October-2025/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/manusri06/October-2025/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/manusri06/October-2025/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/manusri06/October-2025/tree/master/0226-invert-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/manusri06/October-2025/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/manusri06/October-2025/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
