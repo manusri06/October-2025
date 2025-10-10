@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/manusri06/October-2025/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/manusri06/October-2025/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manusri06/October-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/manusri06/October-2025/tree/master/0513-find-bottom-left-tree-value) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manusri06/October-2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/manusri06/October-2025/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/manusri06/October-2025/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manusri06/October-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/manusri06/October-2025/tree/master/0513-find-bottom-left-tree-value) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manusri06/October-2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/manusri06/October-2025/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manusri06/October-2025/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/manusri06/October-2025/tree/master/0226-invert-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/manusri06/October-2025/tree/master/0513-find-bottom-left-tree-value) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manusri06/October-2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/manusri06/October-2025/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/manusri06/October-2025/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manusri06/October-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/manusri06/October-2025/tree/master/0513-find-bottom-left-tree-value) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manusri06/October-2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
