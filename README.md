@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/manusri06/October-2025/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/manusri06/October-2025/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/manusri06/October-2025/tree/master/1036-rotting-oranges) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/manusri06/October-2025/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/manusri06/October-2025/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/manusri06/October-2025/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manusri06/October-2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/manusri06/October-2025/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/manusri06/October-2025/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manusri06/October-2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/manusri06/October-2025/tree/master/1036-rotting-oranges) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/manusri06/October-2025/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/manusri06/October-2025/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/manusri06/October-2025/tree/master/0547-number-of-provinces) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/manusri06/October-2025/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Graph
 |  |
 | ------- |
@@ -167,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/manusri06/October-2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/manusri06/October-2025/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/manusri06/October-2025/tree/master/1036-rotting-oranges) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/manusri06/October-2025/tree/master/1663-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
