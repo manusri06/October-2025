@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manusri06/October-2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manusri06/October-2025/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/manusri06/October-2025/tree/master/0733-flood-fill) |
+| [0907-koko-eating-bananas](https://github.com/manusri06/October-2025/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/manusri06/October-2025/tree/master/1036-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/manusri06/October-2025/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Hash Table
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manusri06/October-2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manusri06/October-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0907-koko-eating-bananas](https://github.com/manusri06/October-2025/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
