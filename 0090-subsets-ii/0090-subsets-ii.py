@@ -15,7 +15,10 @@ class Solution:
 
         ans = []
 
+        seen = set()
         for i in res:
-            if i not in ans:
+            t = tuple(i)
+            if t not in seen:
+                seen.add(t)
                 ans.append(i)
         return ans
