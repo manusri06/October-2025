@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/manusri06/October-2025/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manusri06/October-2025/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/manusri06/October-2025/tree/master/0394-decode-string) |
 ## Stack
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/manusri06/October-2025/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manusri06/October-2025/tree/master/0032-longest-valid-parentheses) |
 ## Queue
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/manusri06/October-2025/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/manusri06/October-2025/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
