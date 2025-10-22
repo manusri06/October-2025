@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/manusri06/October-2025/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manusri06/October-2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/October-2025/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/manusri06/October-2025/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manusri06/October-2025/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/manusri06/October-2025/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/manusri06/October-2025/tree/master/0394-decode-string) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/manusri06/October-2025/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/manusri06/October-2025/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manusri06/October-2025/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/manusri06/October-2025/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manusri06/October-2025/tree/master/0232-implement-queue-using-stacks) |
 ## Backtracking
 |  |
