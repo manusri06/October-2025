@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/manusri06/October-2025/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/manusri06/October-2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manusri06/October-2025/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/manusri06/October-2025/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manusri06/October-2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manusri06/October-2025/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/manusri06/October-2025/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/manusri06/October-2025/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/manusri06/October-2025/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/manusri06/October-2025/tree/master/1036-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/manusri06/October-2025/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/manusri06/October-2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/manusri06/October-2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manusri06/October-2025/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/manusri06/October-2025/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
