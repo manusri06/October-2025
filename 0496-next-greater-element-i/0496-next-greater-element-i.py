@@ -1,18 +1,17 @@
 class Solution:
-    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        dict = {}
-        stack=[]
-        nums2 = nums2[::-1]
-        for i in nums2:
-            while stack and stack[-1] <= i:
-                stack.pop()
-            if not stack:
-                dict[i] = -1
+    def nextGreaterElement(self, n1: List[int], n2: List[int]) -> List[int]:
+    
+        d = {}
+        for i in range(len(n2)):
+            for j in range(i,len(n2)):
+                if n2[i] < n2[j]:
+                    d[n2[i]] = n2[j]
+                    break
+        for i in range(len(n1)):
+            if n1[i] in d:
+                n1[i] = d[n1[i]]
             else:
-                dict[i] = stack[-1]
-            stack.append(i)
-
-        res = []
-        for i in nums1:
-            res.append(dict[i])
-        return res
+                n1[i] = -1
+        return n1
+                
+            
