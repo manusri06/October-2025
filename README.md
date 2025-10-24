@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manusri06/October-2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manusri06/October-2025/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/manusri06/October-2025/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/manusri06/October-2025/tree/master/0937-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manusri06/October-2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manusri06/October-2025/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/manusri06/October-2025/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/manusri06/October-2025/tree/master/0937-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/manusri06/October-2025/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/manusri06/October-2025/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manusri06/October-2025/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/manusri06/October-2025/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/manusri06/October-2025/tree/master/0090-subsets-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/manusri06/October-2025/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
