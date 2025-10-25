@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/manusri06/October-2025/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/manusri06/October-2025/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/manusri06/October-2025/tree/master/0394-decode-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/manusri06/October-2025/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/manusri06/October-2025/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/manusri06/October-2025/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/manusri06/October-2025/tree/master/0937-online-stock-span) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/manusri06/October-2025/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
