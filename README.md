@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/manusri06/October-2025/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manusri06/October-2025/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/manusri06/October-2025/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/manusri06/October-2025/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/manusri06/October-2025/tree/master/0394-decode-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/manusri06/October-2025/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/manusri06/October-2025/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/manusri06/October-2025/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manusri06/October-2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/October-2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/manusri06/October-2025/tree/master/0225-implement-stack-using-queues) |
