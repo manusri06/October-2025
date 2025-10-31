@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/manusri06/October-2025/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/manusri06/October-2025/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/manusri06/October-2025/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manusri06/October-2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/October-2025/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manusri06/October-2025/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manusri06/October-2025/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manusri06/October-2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/manusri06/October-2025/tree/master/0090-subsets-ii) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manusri06/October-2025/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manusri06/October-2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/manusri06/October-2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manusri06/October-2025/tree/master/0503-next-greater-element-ii) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manusri06/October-2025/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/manusri06/October-2025/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/manusri06/October-2025/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/manusri06/October-2025/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/manusri06/October-2025/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/manusri06/October-2025/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manusri06/October-2025/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/manusri06/October-2025/tree/master/0042-trapping-rain-water) |
 ## Queue
 |  |
 | ------- |
